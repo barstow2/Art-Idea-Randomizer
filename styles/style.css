@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(206, 206, 206);
+}
+
+form {
+    padding-bottom: 20px;
+}
+
+.buttons {
+    padding-bottom: 15px;
+}
+
+fieldset {
+    background: #79d8a9;
+}
+
+legend {
+    padding: 20px 0;
+    font-size: 20px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
